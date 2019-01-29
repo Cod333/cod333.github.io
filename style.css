@@ -28,7 +28,7 @@ header.startup {
 
 header.startup hr {
   margin-top: 80px;
-  margin-bottom: 30px; 
+  margin-bottom: 20px; 
 }
 
 header.startup h1 {
@@ -40,7 +40,7 @@ header.startup h1 {
   text-transform: uppercase;
   border-radius: 300px;
   font-family: 'Montserrat', sans-serif;
-  margin-bottom: 50px;
+  margin-bottom: 70px;
 }
 
 .btn-xl {
@@ -56,7 +56,6 @@ header.startup h1 {
 .btn-primary:hover {
   background-color: #000000;
   border-color: #000000;
-  border-width: 3px;
   cursor: pointer;
 }
  
